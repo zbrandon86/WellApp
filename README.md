@@ -1,0 +1,9 @@
+# 7th Well App
+
+Easy access to all things 7th Well.
+
+## Screenshots
+
+### Home Screen:
+
+
