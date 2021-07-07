@@ -5,6 +5,6 @@ Easy access to all things 7th Well.
 ## Screenshots
 
 ### Home Screen:
-![home](./assets/images/Home Screen.png)
+![home](./assets/images/HomeScreen.png)
 
 
